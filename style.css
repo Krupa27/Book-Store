@@ -173,4 +173,11 @@ h2{
         padding-left: 3rem;
         padding-right: 3rem;
     }
+    .testimonial-image {
+        border-radius: 100%;
+        margin: 20px;
+        height: 200px;
+        width: 70%;
+
+    }
 }
