@@ -169,4 +169,8 @@ h2{
         transform: rotate(45deg);
         align-items: center;
     }
+    .cardbutton{
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
 }
