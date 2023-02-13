@@ -161,19 +161,16 @@ h2{
     color:#8f8f8f
 }
 .contact{
-    text-align: center;
     color:aliceblue;
     text-decoration: none;
     padding: 10px 40px 10px 40px;
-    background-color: #f88f81;
+    /* background-color: #f88f81; */
     border-radius: 0.5rem;
 }
-.contactform{
-    padding-left: 625px;
-    padding-top: 75px;
-    margin:0%;
+#Contact{
+    text-align: center;
+    margin-top:25px;
 }
-
 @media (max-width:1020px) {
     #title{
         text-align: center;
@@ -199,4 +196,7 @@ h2{
         width: 70%;
 
     }
+    .Contact {
+        text-align: center;
+    }  
 }
