@@ -148,9 +148,22 @@ h2{
     line-height: 1.5;
 }
 #footer{
-    padding: 7% 15%;
+    padding: 2% 15% 5%;
     text-align: center;
     font-weight: bolder;
+}
+.contact{
+    text-align: center;
+    color:aliceblue;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    background-color: #f88f81;
+    border-radius: 0.5rem;
+}
+.contactform{
+    padding-left: 610px;
+    padding-top: 75px;
+    margin:0%;
 }
 .footer-icon{
     margin: 20px 10px;
