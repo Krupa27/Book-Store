@@ -19,6 +19,9 @@ h1{
     /* font-size: 25px; */
     font-family:"Ubuntu";
     font-weight: bold;
+    background: linear-gradient(263deg, rgba(252, 74, 74, 1) 0%, rgba(0, 212, 255, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .navbar{
     padding:0 0 4.5rem;
@@ -33,6 +36,11 @@ h1{
 }
 .download-button{
     margin: 5% 3% 5% 0;
+}
+.title1{
+    background: linear-gradient(263deg, rgb(221, 195, 195) 0%, rgb(64, 94, 100) 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .title-image{
     border-radius: 30px;
